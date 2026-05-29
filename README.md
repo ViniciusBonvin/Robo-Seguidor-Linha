@@ -15,5 +15,6 @@ Um desafio prático que desenvolveu habilidades de resolução de problemas, tra
 * Integração entre programação e componentes eletrônicos.
 
 ## 📸 Galeria do Projeto
-*(Para colocar suas fotos aqui, basta mudar o nome abaixo para o nome real da foto que você jogou na pasta imagens)*
-![Robô Campeão](imagens/nome_da_sua_foto.jpg)
+
+https://github.com/user-attachments/assets/c8c47ca5-861d-4a55-ad5a-9796d5166f04
+
